@@ -1,37 +1,37 @@
 # questions and answers app
 
-#### 介绍
-疫情智能问答小程序
+## 1. 成员介绍
 
-#### 软件架构
-软件架构说明
+| 学号         | 姓名   | 分工                                           |
+| ------------ | ------ | ---------------------------------------------- |
+| 201931061256 | 隆兴   | 规划项目进程、组织会议、分配任务、参与文档拟写 |
+| 201931061021 | 郑奥   | 负责前端的开发                                 |
+| 201931061023 | 吴永庆 | 负责项目过程的管理                             |
+| 201931061024 | 李博清 | 负责项目框架的搭建                             |
+| 201931061040 | 雷予涵 | 负责后端开发                                   |
 
+## 2. 开发日志
 
-#### 安装教程
+> 2021-5-11：
+>
+> 完成任务：完成项目选题和人员分工，分配任务确定任务的大致开发流程
+>
+> 贡献人员：隆兴、郑奥、吴永庆、李博清、雷予涵
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+>2021-5-12：
+>
+>完成任务：制作项目汇报PPT
+>
+>贡献人员：隆兴、吴永庆、郑奥、李博清、雷雨涵
 
-#### 使用说明
+>2021-5-15：
+>
+>完成任务：编写项目选题计划书
+>
+>贡献人员：隆兴、吴永庆
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+>2021-5-15：
+>
+>完成任务：申请[gitee团队仓库](https://gitee.com/software-engineering-practice)
+>
+>贡献人员：隆兴
