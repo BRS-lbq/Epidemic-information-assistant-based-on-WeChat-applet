@@ -35,3 +35,9 @@
 >完成任务：申请[gitee团队仓库](https://gitee.com/software-engineering-practice)
 >
 >贡献人员：隆兴
+
+> 2021-5-20:
+>
+> 完成任务：微信小程序注册及开发人员权限授予
+>
+> 贡献人员：李博清
