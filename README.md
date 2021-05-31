@@ -74,6 +74,6 @@
 
 > 2021-5-31
 >
-> 完成任务：设计banner图，存放在Codes-asset-img文件夹下
+> 完成任务：设计banner图，存放在Codes-assets-img文件夹下
 >
 > 贡献人员：李博清
