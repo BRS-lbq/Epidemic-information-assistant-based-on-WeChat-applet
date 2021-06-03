@@ -88,6 +88,4 @@
 >
 > 完成任务：初创测试小程序：疫情助手-Demo，设计编写index页面
 >
-> ![1622685859818](C:\Users\17964\AppData\Roaming\Typora\typora-user-images\1622685859818.png)
->
 > 贡献人员：李博清
