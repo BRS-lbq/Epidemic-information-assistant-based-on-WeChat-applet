@@ -89,3 +89,12 @@
 > 完成任务：初创测试小程序：疫情助手-Demo，设计编写index页面
 >
 > 贡献人员：李博清
+
+> 2021-6-5
+>
+> 完成任务：安装node.js，为Demo构建npm，安装移动端vue组件库 Vant，完成首页页面搭建
+>
+> 参考链接：[vant weapp官方文档](https://youzan.github.io/vant-weapp/#/quickstart)
+>
+> 贡献人员：李博清
+

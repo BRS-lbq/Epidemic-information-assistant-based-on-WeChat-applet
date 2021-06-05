@@ -160,6 +160,5 @@
       </van-cell>
     </van-cell-group>
 
-    <van-divider contentPosition="center">技术支持 @Tusi</van-divider>
   </view>
 </view>
